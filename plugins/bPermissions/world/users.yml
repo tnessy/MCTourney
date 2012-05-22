@@ -1,0 +1,15 @@
+users:
+  nsstrunks:
+    permissions: []
+    groups:
+    - admin
+    meta:
+      prefix: Owner
+  pokemon64:
+    permissions: []
+    groups:
+    - default
+  world:
+    permissions: []
+    groups:
+    - admin

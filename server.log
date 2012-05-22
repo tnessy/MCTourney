@@ -1,0 +1,1003 @@
+2012-04-24 21:28:33 [INFO] Starting minecraft server version 1.2.5
+2012-04-24 21:28:33 [INFO] Loading properties
+2012-04-24 21:28:33 [WARNING] server.properties does not exist
+2012-04-24 21:28:33 [INFO] Generating new properties file
+2012-04-24 21:28:33 [INFO] Starting Minecraft server on *:25565
+2012-04-24 21:28:34 [INFO] This server is running NerdBukkit version git-Bukkit-"80cf67a" (MC: 1.2.5) (Implementing API version 1.2.5-R1.0)
+2012-04-24 21:28:34 [WARNING] Failed to load ban list: java.io.FileNotFoundException: banned-players.txt (The system cannot find the file specified)
+2012-04-24 21:28:34 [WARNING] Failed to load ip ban list: java.io.FileNotFoundException: banned-ips.txt (The system cannot find the file specified)
+2012-04-24 21:28:34 [WARNING] Failed to load operators list: java.io.FileNotFoundException: ops.txt (The system cannot find the file specified)
+2012-04-24 21:28:34 [WARNING] Failed to load white-list: java.io.FileNotFoundException: white-list.txt (The system cannot find the file specified)
+2012-04-24 21:28:34 [INFO] Preparing level "world"
+2012-04-24 21:28:34 [INFO] Default game type: 0
+2012-04-24 21:28:34 [INFO] Placed stronghold in INVALID biome at (50, 13)
+2012-04-24 21:28:34 [INFO] Preparing start region for level 0 (Seed: -212515882441246010)
+2012-04-24 21:28:35 [INFO] Preparing spawn area: 16%
+2012-04-24 21:28:36 [INFO] Preparing spawn area: 40%
+2012-04-24 21:28:37 [INFO] Preparing spawn area: 57%
+2012-04-24 21:28:38 [INFO] Preparing spawn area: 77%
+2012-04-24 21:28:39 [INFO] Preparing spawn area: 97%
+2012-04-24 21:28:39 [INFO] Preparing start region for level 1 (Seed: -212515882441246010)
+2012-04-24 21:28:40 [INFO] Preparing spawn area: 28%
+2012-04-24 21:28:41 [INFO] Preparing spawn area: 57%
+2012-04-24 21:28:42 [INFO] Preparing spawn area: 81%
+2012-04-24 21:28:43 [INFO] Preparing start region for level 2 (Seed: -212515882441246010)
+2012-04-24 21:28:43 [INFO] Preparing spawn area: 0%
+2012-04-24 21:28:44 [INFO] Preparing spawn area: 69%
+2012-04-24 21:28:44 [INFO] Done (10.684s)! For help, type "help" or "?"
+2012-04-24 21:28:48 [INFO] CONSOLE: Stopping the server..[0m
+2012-04-24 21:28:48 [INFO] Unknown command. Type "help" for help.[0m
+2012-04-24 21:28:48 [INFO] Stopping server
+2012-04-24 21:28:48 [INFO] Saving chunks
+2012-04-24 21:28:53 [INFO] Starting minecraft server version 1.2.5
+2012-04-24 21:28:53 [INFO] Loading properties
+2012-04-24 21:28:53 [INFO] Starting Minecraft server on *:25565
+2012-04-24 21:28:53 [INFO] This server is running NerdBukkit version git-Bukkit-"80cf67a" (MC: 1.2.5) (Implementing API version 1.2.5-R1.0)
+2012-04-24 21:28:53 [INFO] Preparing level "world"
+2012-04-24 21:28:53 [INFO] Default game type: 0
+2012-04-24 21:28:53 [INFO] Preparing start region for level 0 (Seed: -212515882441246010)
+2012-04-24 21:28:54 [INFO] Preparing start region for level 1 (Seed: -212515882441246010)
+2012-04-24 21:28:54 [INFO] Preparing start region for level 2 (Seed: -212515882441246010)
+2012-04-24 21:28:54 [INFO] Preparing spawn area: 69%
+2012-04-24 21:28:54 [INFO] Server permissions file permissions.yml is empty, ignoring it
+2012-04-24 21:28:54 [INFO] Done (1.131s)! For help, type "help" or "?"
+2012-04-24 21:28:59 [INFO] CONSOLE: Stopping the server..[0m
+2012-04-24 21:28:59 [INFO] Unknown command. Type "help" for help.[0m
+2012-04-24 21:28:59 [INFO] Stopping server
+2012-04-24 21:28:59 [INFO] Saving chunks
+2012-04-24 21:29:00 [INFO] Stopping server
+2012-04-24 21:29:09 [INFO] Starting minecraft server version 1.2.5
+2012-04-24 21:29:09 [INFO] Loading properties
+2012-04-24 21:29:09 [INFO] Starting Minecraft server on *:25565
+2012-04-24 21:29:09 [INFO] This server is running NerdBukkit version git-Bukkit-"80cf67a" (MC: 1.2.5) (Implementing API version 1.2.5-R1.0)
+2012-04-24 21:29:09 [INFO] [LogShit] Loading LogShit v0.2
+2012-04-24 21:29:09 [INFO] Preparing level "world"
+2012-04-24 21:29:09 [INFO] Default game type: 0
+2012-04-24 21:29:09 [INFO] Preparing start region for level 0 (Seed: -212515882441246010)
+2012-04-24 21:29:09 [INFO] Preparing start region for level 1 (Seed: -212515882441246010)
+2012-04-24 21:29:10 [INFO] Preparing start region for level 2 (Seed: -212515882441246010)
+2012-04-24 21:29:10 [INFO] [LogShit] Enabling LogShit v0.2
+2012-04-24 21:29:10 [INFO] Server permissions file permissions.yml is empty, ignoring it
+2012-04-24 21:29:10 [INFO] Done (1.033s)! For help, type "help" or "?"
+2012-04-24 21:29:20 [INFO] CONSOLE: Stopping the server..[0m
+2012-04-24 21:29:20 [INFO] Unknown command. Type "help" for help.[0m
+2012-04-24 21:29:20 [INFO] Stopping server
+2012-04-24 21:29:20 [INFO] [LogShit] Disabling LogShit v0.2
+2012-04-24 21:29:20 [INFO] Saving chunks
+2012-04-24 21:29:27 [INFO] Starting minecraft server version 1.2.5
+2012-04-24 21:29:27 [INFO] Loading properties
+2012-04-24 21:29:27 [INFO] Starting Minecraft server on *:25565
+2012-04-24 21:29:27 [INFO] This server is running NerdBukkit version git-Bukkit-"80cf67a" (MC: 1.2.5) (Implementing API version 1.2.5-R1.0)
+2012-04-24 21:29:27 [INFO] [LogShit] Loading LogShit v0.2
+2012-04-24 21:29:27 [INFO] Preparing level "world"
+2012-04-24 21:29:27 [INFO] Default game type: 0
+2012-04-24 21:29:27 [INFO] Preparing start region for level 0 (Seed: -212515882441246010)
+2012-04-24 21:29:28 [INFO] Preparing start region for level 1 (Seed: -212515882441246010)
+2012-04-24 21:29:28 [INFO] Preparing start region for level 2 (Seed: -212515882441246010)
+2012-04-24 21:29:28 [INFO] [LogShit] Enabling LogShit v0.2
+2012-04-24 21:29:28 [INFO] Server permissions file permissions.yml is empty, ignoring it
+2012-04-24 21:29:28 [INFO] Done (1.036s)! For help, type "help" or "?"
+2012-04-24 21:29:30 [INFO] CONSOLE: Stopping the server..[0m
+2012-04-24 21:29:30 [INFO] Unknown command. Type "help" for help.[0m
+2012-04-24 21:29:30 [INFO] Stopping server
+2012-04-24 21:29:30 [INFO] [LogShit] Disabling LogShit v0.2
+2012-04-24 21:29:30 [INFO] Saving chunks
+2012-04-24 21:29:36 [INFO] Starting minecraft server version 1.2.5
+2012-04-24 21:29:36 [INFO] Loading properties
+2012-04-24 21:29:36 [INFO] Starting Minecraft server on *:25565
+2012-04-24 21:29:36 [INFO] This server is running NerdBukkit version git-Bukkit-"80cf67a" (MC: 1.2.5) (Implementing API version 1.2.5-R1.0)
+2012-04-24 21:29:36 [INFO] [LogShit] Loading LogShit v0.2
+2012-04-24 21:29:36 [INFO] [bPermissions] Loading bPermissions v2.9.1
+2012-04-24 21:29:36 [INFO] Preparing level "world"
+2012-04-24 21:29:36 [INFO] Default game type: 0
+2012-04-24 21:29:36 [INFO] Preparing start region for level 0 (Seed: -212515882441246010)
+2012-04-24 21:29:37 [INFO] Preparing start region for level 1 (Seed: -212515882441246010)
+2012-04-24 21:29:37 [INFO] Preparing start region for level 2 (Seed: -212515882441246010)
+2012-04-24 21:29:37 [INFO] [LogShit] Enabling LogShit v0.2
+2012-04-24 21:29:37 [INFO] [bPermissions] Enabling bPermissions v2.9.1
+2012-04-24 21:29:37 [INFO] [bPermissions] Loading world: world
+2012-04-24 21:29:37 [INFO] [bPermissions] Loading world: world_nether
+2012-04-24 21:29:37 [INFO] [bPermissions] Loading world: world_the_end
+2012-04-24 21:29:37 [INFO] [bPermissions] Enabled
+2012-04-24 21:29:37 [INFO] Server permissions file permissions.yml is empty, ignoring it
+2012-04-24 21:29:37 [INFO] Done (1.095s)! For help, type "help" or "?"
+2012-04-24 21:29:45 [INFO] Unknown command. Type "help" for help.[0m
+2012-04-24 21:29:45 [INFO] Unknown command. Type "help" for help.[0m
+2012-04-24 21:29:47 [INFO] CONSOLE: Stopping the server..[0m
+2012-04-24 21:29:47 [INFO] Unknown command. Type "help" for help.[0m
+2012-04-24 21:29:47 [INFO] Stopping server
+2012-04-24 21:29:47 [INFO] [LogShit] Disabling LogShit v0.2
+2012-04-24 21:29:47 [INFO] [bPermissions] Disabling bPermissions v2.9.1
+2012-04-24 21:29:47 [INFO] [bPermissions] Disabled
+2012-04-24 21:29:47 [INFO] Saving chunks
+2012-04-24 21:29:58 [INFO] Starting minecraft server version 1.2.5
+2012-04-24 21:29:58 [INFO] Loading properties
+2012-04-24 21:29:58 [INFO] Starting Minecraft server on *:25565
+2012-04-24 21:29:58 [INFO] This server is running NerdBukkit version git-Bukkit-"80cf67a" (MC: 1.2.5) (Implementing API version 1.2.5-R1.0)
+2012-04-24 21:29:58 [INFO] [LogShit] Loading LogShit v0.2
+2012-04-24 21:29:58 [INFO] [bPermissions] Loading bPermissions v2.9.1
+2012-04-24 21:29:58 [INFO] [ModMode] Loading ModMode v1.0
+2012-04-24 21:29:58 [INFO] Preparing level "world"
+2012-04-24 21:29:58 [INFO] Default game type: 0
+2012-04-24 21:29:58 [INFO] Preparing start region for level 0 (Seed: -212515882441246010)
+2012-04-24 21:29:59 [INFO] Preparing start region for level 1 (Seed: -212515882441246010)
+2012-04-24 21:29:59 [INFO] Preparing start region for level 2 (Seed: -212515882441246010)
+2012-04-24 21:29:59 [INFO] [LogShit] Enabling LogShit v0.2
+2012-04-24 21:29:59 [INFO] [bPermissions] Enabling bPermissions v2.9.1
+2012-04-24 21:29:59 [INFO] [bPermissions] Loading world: world
+2012-04-24 21:29:59 [INFO] [bPermissions] Loading world: world_nether
+2012-04-24 21:29:59 [INFO] [bPermissions] Loading world: world_the_end
+2012-04-24 21:29:59 [INFO] [bPermissions] Enabled
+2012-04-24 21:29:59 [INFO] [ModMode] Enabling ModMode v1.0
+2012-04-24 21:29:59 [INFO] Server permissions file permissions.yml is empty, ignoring it
+2012-04-24 21:29:59 [INFO] Done (1.057s)! For help, type "help" or "?"
+2012-04-24 21:30:06 [INFO] CONSOLE: Stopping the server..[0m
+2012-04-24 21:30:06 [INFO] Unknown command. Type "help" for help.[0m
+2012-04-24 21:30:06 [INFO] Stopping server
+2012-04-24 21:30:06 [INFO] [LogShit] Disabling LogShit v0.2
+2012-04-24 21:30:06 [INFO] [bPermissions] Disabling bPermissions v2.9.1
+2012-04-24 21:30:06 [INFO] [bPermissions] Disabled
+2012-04-24 21:30:06 [INFO] [ModMode] Disabling ModMode v1.0
+2012-04-24 21:30:06 [INFO] Saving chunks
+2012-04-24 21:30:13 [INFO] Starting minecraft server version 1.2.5
+2012-04-24 21:30:13 [INFO] Loading properties
+2012-04-24 21:30:13 [INFO] Starting Minecraft server on *:25565
+2012-04-24 21:30:13 [INFO] This server is running NerdBukkit version git-Bukkit-"80cf67a" (MC: 1.2.5) (Implementing API version 1.2.5-R1.0)
+2012-04-24 21:30:13 [INFO] [LogShit] Loading LogShit v0.2
+2012-04-24 21:30:13 [INFO] [bPermissions] Loading bPermissions v2.9.1
+2012-04-24 21:30:13 [INFO] [ProperTime] Loading ProperTime v2.2
+2012-04-24 21:30:13 [INFO] [ModMode] Loading ModMode v1.0
+2012-04-24 21:30:13 [INFO] Preparing level "world"
+2012-04-24 21:30:13 [INFO] Default game type: 0
+2012-04-24 21:30:14 [INFO] Preparing start region for level 0 (Seed: -212515882441246010)
+2012-04-24 21:30:14 [INFO] Preparing start region for level 1 (Seed: -212515882441246010)
+2012-04-24 21:30:14 [INFO] Preparing start region for level 2 (Seed: -212515882441246010)
+2012-04-24 21:30:14 [INFO] [LogShit] Enabling LogShit v0.2
+2012-04-24 21:30:14 [INFO] [bPermissions] Enabling bPermissions v2.9.1
+2012-04-24 21:30:14 [INFO] [bPermissions] Loading world: world
+2012-04-24 21:30:14 [INFO] [bPermissions] Loading world: world_nether
+2012-04-24 21:30:14 [INFO] [bPermissions] Loading world: world_the_end
+2012-04-24 21:30:14 [INFO] [bPermissions] Enabled
+2012-04-24 21:30:14 [INFO] [ProperTime] Enabling ProperTime v2.2
+2012-04-24 21:30:15 [INFO] [ProperTime v2.2] New configuration file created
+2012-04-24 21:30:15 [INFO] [ProperTime v2.2] Applying default config on world world
+2012-04-24 21:30:15 [INFO] [ProperTime v2.2] Applying default config on world world_nether
+2012-04-24 21:30:15 [INFO] [ProperTime v2.2] Applying default config on world world_the_end
+2012-04-24 21:30:15 [INFO] [ProperTime v2.2] Initialized.
+2012-04-24 21:30:15 [INFO] [ModMode] Enabling ModMode v1.0
+2012-04-24 21:30:15 [INFO] Server permissions file permissions.yml is empty, ignoring it
+2012-04-24 21:30:15 [INFO] Done (1.081s)! For help, type "help" or "?"
+2012-04-24 21:30:26 [INFO] CONSOLE: Stopping the server..[0m
+2012-04-24 21:30:26 [INFO] Unknown command. Type "help" for help.[0m
+2012-04-24 21:30:26 [INFO] Stopping server
+2012-04-24 21:30:26 [INFO] [LogShit] Disabling LogShit v0.2
+2012-04-24 21:30:26 [INFO] [bPermissions] Disabling bPermissions v2.9.1
+2012-04-24 21:30:26 [INFO] [bPermissions] Disabled
+2012-04-24 21:30:26 [INFO] [ProperTime] Disabling ProperTime v2.2
+2012-04-24 21:30:26 [INFO] [ProperTime v2.2] Thread 0 successfully joined.
+2012-04-24 21:30:26 [INFO] [ProperTime v2.2] Thread 1 successfully joined.
+2012-04-24 21:30:26 [INFO] [ProperTime v2.2] Thread 2 successfully joined.
+2012-04-24 21:30:26 [INFO] [ProperTime v2.2] Signing off.
+2012-04-24 21:30:26 [INFO] [ModMode] Disabling ModMode v1.0
+2012-04-24 21:30:26 [INFO] Saving chunks
+2012-04-24 21:30:27 [INFO] Stopping server
+2012-04-24 21:30:36 [INFO] Starting minecraft server version 1.2.5
+2012-04-24 21:30:36 [INFO] Loading properties
+2012-04-24 21:30:36 [INFO] Starting Minecraft server on *:25565
+2012-04-24 21:30:36 [INFO] This server is running NerdBukkit version git-Bukkit-"80cf67a" (MC: 1.2.5) (Implementing API version 1.2.5-R1.0)
+2012-04-24 21:30:36 [INFO] [LogShit] Loading LogShit v0.2
+2012-04-24 21:30:36 [INFO] [bPermissions] Loading bPermissions v2.9.1
+2012-04-24 21:30:36 [INFO] [WorldEdit] Loading WorldEdit v5.4-SNAPSHOT
+2012-04-24 21:30:36 [INFO] [ProperTime] Loading ProperTime v2.2
+2012-04-24 21:30:36 [INFO] [ModMode] Loading ModMode v1.0
+2012-04-24 21:30:36 [INFO] Preparing level "world"
+2012-04-24 21:30:36 [INFO] Default game type: 0
+2012-04-24 21:30:36 [INFO] Preparing start region for level 0 (Seed: -212515882441246010)
+2012-04-24 21:30:36 [INFO] Preparing start region for level 1 (Seed: -212515882441246010)
+2012-04-24 21:30:37 [INFO] Preparing start region for level 2 (Seed: -212515882441246010)
+2012-04-24 21:30:37 [INFO] [LogShit] Enabling LogShit v0.2
+2012-04-24 21:30:37 [INFO] [bPermissions] Enabling bPermissions v2.9.1
+2012-04-24 21:30:37 [INFO] [bPermissions] Loading world: world
+2012-04-24 21:30:37 [INFO] [bPermissions] Loading world: world_nether
+2012-04-24 21:30:37 [INFO] [bPermissions] Loading world: world_the_end
+2012-04-24 21:30:37 [INFO] [bPermissions] Enabled
+2012-04-24 21:30:37 [INFO] [WorldEdit] Enabling WorldEdit v5.4-SNAPSHOT
+2012-04-24 21:30:37 [INFO] [WorldEdit] Default configuration file written: config.yml
+2012-04-24 21:30:37 [INFO] WEPIF: Updated config file
+2012-04-24 21:30:37 [INFO] WEPIF: bPermissions detected! Using bPermissions for permissions
+2012-04-24 21:30:37 [INFO] [ProperTime] Enabling ProperTime v2.2
+2012-04-24 21:30:37 [INFO] [ProperTime v2.2] World set to: world.
+2012-04-24 21:30:37 [INFO] [ProperTime v2.2] World: world - SpeedDay: 1.0
+2012-04-24 21:30:37 [INFO] [ProperTime v2.2] World: world - SpeedNight: 1.0
+2012-04-24 21:30:37 [INFO] [ProperTime v2.2] World: world - SpeedDusk: 1.0
+2012-04-24 21:30:37 [INFO] [ProperTime v2.2] World: world - SpeedDawn: 1.0
+2012-04-24 21:30:37 [INFO] [ProperTime v2.2] World: world - Perma: -1
+2012-04-24 21:30:37 [INFO] [ProperTime v2.2] World set to: world_nether.
+2012-04-24 21:30:37 [INFO] [ProperTime v2.2] World: world_nether - SpeedDay: 1.0
+2012-04-24 21:30:37 [INFO] [ProperTime v2.2] World: world_nether - SpeedNight: 1.0
+2012-04-24 21:30:37 [INFO] [ProperTime v2.2] World: world_nether - SpeedDusk: 1.0
+2012-04-24 21:30:37 [INFO] [ProperTime v2.2] World: world_nether - SpeedDawn: 1.0
+2012-04-24 21:30:37 [INFO] [ProperTime v2.2] World: world_nether - Perma: -1
+2012-04-24 21:30:37 [INFO] [ProperTime v2.2] World set to: world_the_end.
+2012-04-24 21:30:37 [INFO] [ProperTime v2.2] World: world_the_end - SpeedDay: 1.0
+2012-04-24 21:30:37 [INFO] [ProperTime v2.2] World: world_the_end - SpeedNight: 1.0
+2012-04-24 21:30:37 [INFO] [ProperTime v2.2] World: world_the_end - SpeedDusk: 1.0
+2012-04-24 21:30:37 [INFO] [ProperTime v2.2] World: world_the_end - SpeedDawn: 1.0
+2012-04-24 21:30:37 [INFO] [ProperTime v2.2] World: world_the_end - Perma: -1
+2012-04-24 21:30:37 [INFO] [ProperTime v2.2] Initialized.
+2012-04-24 21:30:37 [INFO] [ModMode] Enabling ModMode v1.0
+2012-04-24 21:30:37 [INFO] Server permissions file permissions.yml is empty, ignoring it
+2012-04-24 21:30:37 [INFO] Done (1.203s)! For help, type "help" or "?"
+2012-04-24 21:31:15 [INFO] CONSOLE: Stopping the server..[0m
+2012-04-24 21:31:15 [INFO] Unknown command. Type "help" for help.[0m
+2012-04-24 21:31:15 [INFO] Stopping server
+2012-04-24 21:31:15 [INFO] [LogShit] Disabling LogShit v0.2
+2012-04-24 21:31:15 [INFO] [bPermissions] Disabling bPermissions v2.9.1
+2012-04-24 21:31:15 [INFO] WEPIF: bPermissions detected! Using bPermissions for permissions
+2012-04-24 21:31:15 [INFO] [bPermissions] Disabled
+2012-04-24 21:31:15 [INFO] [WorldEdit] Disabling WorldEdit v5.4-SNAPSHOT
+2012-04-24 21:31:15 [INFO] [ProperTime] Disabling ProperTime v2.2
+2012-04-24 21:31:15 [INFO] [ProperTime v2.2] Thread 0 successfully joined.
+2012-04-24 21:31:15 [INFO] [ProperTime v2.2] Thread 1 successfully joined.
+2012-04-24 21:31:15 [INFO] [ProperTime v2.2] Thread 2 successfully joined.
+2012-04-24 21:31:15 [INFO] [ProperTime v2.2] Signing off.
+2012-04-24 21:31:15 [INFO] [ModMode] Disabling ModMode v1.0
+2012-04-24 21:31:15 [INFO] Saving chunks
+2012-04-24 21:31:16 [INFO] Stopping server
+2012-04-24 21:31:21 [INFO] Starting minecraft server version 1.2.5
+2012-04-24 21:31:21 [INFO] Loading properties
+2012-04-24 21:31:21 [INFO] Starting Minecraft server on *:25565
+2012-04-24 21:31:21 [INFO] This server is running NerdBukkit version git-Bukkit-"80cf67a" (MC: 1.2.5) (Implementing API version 1.2.5-R1.0)
+2012-04-24 21:31:21 [INFO] [LogShit] Loading LogShit v0.2
+2012-04-24 21:31:21 [INFO] [bPermissions] Loading bPermissions v2.9.1
+2012-04-24 21:31:21 [INFO] [WorldEdit] Loading WorldEdit v5.4-SNAPSHOT
+2012-04-24 21:31:21 [INFO] [ProperTime] Loading ProperTime v2.2
+2012-04-24 21:31:21 [INFO] [ModMode] Loading ModMode v1.0
+2012-04-24 21:31:21 [INFO] [WorldGuard] Loading WorldGuard v5.6-SNAPSHOT
+2012-04-24 21:31:21 [INFO] Preparing level "world"
+2012-04-24 21:31:21 [INFO] Default game type: 0
+2012-04-24 21:31:21 [INFO] Preparing start region for level 0 (Seed: -212515882441246010)
+2012-04-24 21:31:22 [INFO] Preparing start region for level 1 (Seed: -212515882441246010)
+2012-04-24 21:31:22 [INFO] Preparing start region for level 2 (Seed: -212515882441246010)
+2012-04-24 21:31:22 [INFO] [LogShit] Enabling LogShit v0.2
+2012-04-24 21:31:22 [INFO] [bPermissions] Enabling bPermissions v2.9.1
+2012-04-24 21:31:22 [INFO] [bPermissions] Loading world: world
+2012-04-24 21:31:22 [INFO] [bPermissions] Loading world: world_nether
+2012-04-24 21:31:22 [INFO] [bPermissions] Loading world: world_the_end
+2012-04-24 21:31:22 [INFO] [bPermissions] Enabled
+2012-04-24 21:31:22 [INFO] [WorldEdit] Enabling WorldEdit v5.4-SNAPSHOT
+2012-04-24 21:31:22 [INFO] WEPIF: bPermissions detected! Using bPermissions for permissions
+2012-04-24 21:31:22 [INFO] [ProperTime] Enabling ProperTime v2.2
+2012-04-24 21:31:22 [INFO] [ProperTime v2.2] World set to: world.
+2012-04-24 21:31:22 [INFO] [ProperTime v2.2] World: world - SpeedDay: 1.0
+2012-04-24 21:31:22 [INFO] [ProperTime v2.2] World: world - SpeedNight: 1.0
+2012-04-24 21:31:22 [INFO] [ProperTime v2.2] World: world - SpeedDusk: 1.0
+2012-04-24 21:31:22 [INFO] [ProperTime v2.2] World: world - SpeedDawn: 1.0
+2012-04-24 21:31:22 [INFO] [ProperTime v2.2] World: world - Perma: -1
+2012-04-24 21:31:22 [INFO] [ProperTime v2.2] World set to: world_nether.
+2012-04-24 21:31:22 [INFO] [ProperTime v2.2] World: world_nether - SpeedDay: 1.0
+2012-04-24 21:31:22 [INFO] [ProperTime v2.2] World: world_nether - SpeedNight: 1.0
+2012-04-24 21:31:22 [INFO] [ProperTime v2.2] World: world_nether - SpeedDusk: 1.0
+2012-04-24 21:31:22 [INFO] [ProperTime v2.2] World: world_nether - SpeedDawn: 1.0
+2012-04-24 21:31:22 [INFO] [ProperTime v2.2] World: world_nether - Perma: -1
+2012-04-24 21:31:22 [INFO] [ProperTime v2.2] World set to: world_the_end.
+2012-04-24 21:31:22 [INFO] [ProperTime v2.2] World: world_the_end - SpeedDay: 1.0
+2012-04-24 21:31:22 [INFO] [ProperTime v2.2] World: world_the_end - SpeedNight: 1.0
+2012-04-24 21:31:22 [INFO] [ProperTime v2.2] World: world_the_end - SpeedDusk: 1.0
+2012-04-24 21:31:22 [INFO] [ProperTime v2.2] World: world_the_end - SpeedDawn: 1.0
+2012-04-24 21:31:22 [INFO] [ProperTime v2.2] World: world_the_end - Perma: -1
+2012-04-24 21:31:22 [INFO] [ProperTime v2.2] Initialized.
+2012-04-24 21:31:22 [INFO] [ModMode] Enabling ModMode v1.0
+2012-04-24 21:31:22 [INFO] [WorldGuard] Enabling WorldGuard v5.6-SNAPSHOT
+2012-04-24 21:31:22 [INFO] [WorldGuard] Default configuration file written: C:\Users\nsstrunks\Desktop\MCTourney\plugins\WorldGuard\config.yml
+2012-04-24 21:31:22 [INFO] [WorldGuard] Default configuration file written: C:\Users\nsstrunks\Desktop\MCTourney\plugins\WorldGuard\worlds\world\config.yml
+2012-04-24 21:31:22 [INFO] [WorldGuard] Default configuration file written: C:\Users\nsstrunks\Desktop\MCTourney\plugins\WorldGuard\worlds\world\blacklist.txt
+2012-04-24 21:31:22 [INFO] [WorldGuard] (world) TNT ignition is PERMITTED.
+2012-04-24 21:31:22 [INFO] [WorldGuard] (world) Lighters are PERMITTED.
+2012-04-24 21:31:22 [INFO] [WorldGuard] (world) Lava fire is blocked.
+2012-04-24 21:31:22 [INFO] [WorldGuard] (world) Fire spread is UNRESTRICTED.
+2012-04-24 21:31:22 [INFO] [WorldGuard] Loaded configuration for world 'world'
+2012-04-24 21:31:22 [INFO] [WorldGuard] Default configuration file written: C:\Users\nsstrunks\Desktop\MCTourney\plugins\WorldGuard\worlds\world_nether\config.yml
+2012-04-24 21:31:22 [INFO] [WorldGuard] Default configuration file written: C:\Users\nsstrunks\Desktop\MCTourney\plugins\WorldGuard\worlds\world_nether\blacklist.txt
+2012-04-24 21:31:22 [INFO] [WorldGuard] (world_nether) TNT ignition is PERMITTED.
+2012-04-24 21:31:22 [INFO] [WorldGuard] (world_nether) Lighters are PERMITTED.
+2012-04-24 21:31:22 [INFO] [WorldGuard] (world_nether) Lava fire is blocked.
+2012-04-24 21:31:22 [INFO] [WorldGuard] (world_nether) Fire spread is UNRESTRICTED.
+2012-04-24 21:31:22 [INFO] [WorldGuard] Loaded configuration for world 'world_nether'
+2012-04-24 21:31:22 [INFO] [WorldGuard] Default configuration file written: C:\Users\nsstrunks\Desktop\MCTourney\plugins\WorldGuard\worlds\world_the_end\config.yml
+2012-04-24 21:31:22 [INFO] [WorldGuard] Default configuration file written: C:\Users\nsstrunks\Desktop\MCTourney\plugins\WorldGuard\worlds\world_the_end\blacklist.txt
+2012-04-24 21:31:22 [INFO] [WorldGuard] (world_the_end) TNT ignition is PERMITTED.
+2012-04-24 21:31:22 [INFO] [WorldGuard] (world_the_end) Lighters are PERMITTED.
+2012-04-24 21:31:22 [INFO] [WorldGuard] (world_the_end) Lava fire is blocked.
+2012-04-24 21:31:22 [INFO] [WorldGuard] (world_the_end) Fire spread is UNRESTRICTED.
+2012-04-24 21:31:22 [INFO] [WorldGuard] Loaded configuration for world 'world_the_end'
+2012-04-24 21:31:22 [INFO] [WorldGuard] 0 regions loaded for 'world'
+2012-04-24 21:31:22 [INFO] [WorldGuard] 0 regions loaded for 'world_nether'
+2012-04-24 21:31:22 [INFO] [WorldGuard] 0 regions loaded for 'world_the_end'
+2012-04-24 21:31:22 [INFO] Server permissions file permissions.yml is empty, ignoring it
+2012-04-24 21:31:22 [INFO] Done (1.267s)! For help, type "help" or "?"
+2012-04-24 21:31:36 [INFO] CONSOLE: Stopping the server..[0m
+2012-04-24 21:31:36 [INFO] Unknown command. Type "help" for help.[0m
+2012-04-24 21:31:36 [INFO] Stopping server
+2012-04-24 21:31:36 [INFO] [LogShit] Disabling LogShit v0.2
+2012-04-24 21:31:36 [INFO] [bPermissions] Disabling bPermissions v2.9.1
+2012-04-24 21:31:36 [INFO] WEPIF: bPermissions detected! Using bPermissions for permissions
+2012-04-24 21:31:36 [INFO] [bPermissions] Disabled
+2012-04-24 21:31:36 [INFO] [WorldEdit] Disabling WorldEdit v5.4-SNAPSHOT
+2012-04-24 21:31:36 [INFO] [ProperTime] Disabling ProperTime v2.2
+2012-04-24 21:31:36 [INFO] [ProperTime v2.2] Thread 0 successfully joined.
+2012-04-24 21:31:36 [INFO] [ProperTime v2.2] Thread 1 successfully joined.
+2012-04-24 21:31:36 [INFO] [ProperTime v2.2] Thread 2 successfully joined.
+2012-04-24 21:31:36 [INFO] [ProperTime v2.2] Signing off.
+2012-04-24 21:31:36 [INFO] [ModMode] Disabling ModMode v1.0
+2012-04-24 21:31:36 [INFO] [WorldGuard] Disabling WorldGuard v5.6-SNAPSHOT
+2012-04-24 21:31:36 [INFO] Saving chunks
+2012-04-24 21:31:36 [INFO] Stopping server
+2012-04-24 21:31:38 [INFO] Starting minecraft server version 1.2.5
+2012-04-24 21:31:38 [INFO] Loading properties
+2012-04-24 21:31:38 [INFO] Starting Minecraft server on *:25565
+2012-04-24 21:31:38 [INFO] This server is running NerdBukkit version git-Bukkit-"80cf67a" (MC: 1.2.5) (Implementing API version 1.2.5-R1.0)
+2012-04-24 21:31:38 [INFO] [LogShit] Loading LogShit v0.2
+2012-04-24 21:31:38 [INFO] [bPermissions] Loading bPermissions v2.9.1
+2012-04-24 21:31:38 [INFO] [WorldEdit] Loading WorldEdit v5.4-SNAPSHOT
+2012-04-24 21:31:38 [INFO] [ProperTime] Loading ProperTime v2.2
+2012-04-24 21:31:38 [INFO] [ModMode] Loading ModMode v1.0
+2012-04-24 21:31:38 [INFO] [WorldGuard] Loading WorldGuard v5.6-SNAPSHOT
+2012-04-24 21:31:38 [INFO] Preparing level "world"
+2012-04-24 21:31:38 [INFO] Default game type: 0
+2012-04-24 21:31:38 [INFO] Preparing start region for level 0 (Seed: -212515882441246010)
+2012-04-24 21:31:39 [INFO] Preparing start region for level 1 (Seed: -212515882441246010)
+2012-04-24 21:31:39 [INFO] Preparing start region for level 2 (Seed: -212515882441246010)
+2012-04-24 21:31:39 [INFO] [LogShit] Enabling LogShit v0.2
+2012-04-24 21:31:39 [INFO] [bPermissions] Enabling bPermissions v2.9.1
+2012-04-24 21:31:39 [INFO] [bPermissions] Loading world: world
+2012-04-24 21:31:39 [INFO] [bPermissions] Loading world: world_nether
+2012-04-24 21:31:39 [INFO] [bPermissions] Loading world: world_the_end
+2012-04-24 21:31:39 [INFO] [bPermissions] Enabled
+2012-04-24 21:31:39 [INFO] [WorldEdit] Enabling WorldEdit v5.4-SNAPSHOT
+2012-04-24 21:31:39 [INFO] WEPIF: bPermissions detected! Using bPermissions for permissions
+2012-04-24 21:31:39 [INFO] [ProperTime] Enabling ProperTime v2.2
+2012-04-24 21:31:39 [INFO] [ProperTime v2.2] World set to: world.
+2012-04-24 21:31:39 [INFO] [ProperTime v2.2] World: world - SpeedDay: 1.0
+2012-04-24 21:31:39 [INFO] [ProperTime v2.2] World: world - SpeedNight: 1.0
+2012-04-24 21:31:39 [INFO] [ProperTime v2.2] World: world - SpeedDusk: 1.0
+2012-04-24 21:31:39 [INFO] [ProperTime v2.2] World: world - SpeedDawn: 1.0
+2012-04-24 21:31:39 [INFO] [ProperTime v2.2] World: world - Perma: -1
+2012-04-24 21:31:39 [INFO] [ProperTime v2.2] World set to: world_nether.
+2012-04-24 21:31:39 [INFO] [ProperTime v2.2] World: world_nether - SpeedDay: 1.0
+2012-04-24 21:31:39 [INFO] [ProperTime v2.2] World: world_nether - SpeedNight: 1.0
+2012-04-24 21:31:39 [INFO] [ProperTime v2.2] World: world_nether - SpeedDusk: 1.0
+2012-04-24 21:31:39 [INFO] [ProperTime v2.2] World: world_nether - SpeedDawn: 1.0
+2012-04-24 21:31:39 [INFO] [ProperTime v2.2] World: world_nether - Perma: -1
+2012-04-24 21:31:39 [INFO] [ProperTime v2.2] World set to: world_the_end.
+2012-04-24 21:31:39 [INFO] [ProperTime v2.2] World: world_the_end - SpeedDay: 1.0
+2012-04-24 21:31:39 [INFO] [ProperTime v2.2] World: world_the_end - SpeedNight: 1.0
+2012-04-24 21:31:39 [INFO] [ProperTime v2.2] World: world_the_end - SpeedDusk: 1.0
+2012-04-24 21:31:39 [INFO] [ProperTime v2.2] World: world_the_end - SpeedDawn: 1.0
+2012-04-24 21:31:39 [INFO] [ProperTime v2.2] World: world_the_end - Perma: -1
+2012-04-24 21:31:39 [INFO] [ProperTime v2.2] Initialized.
+2012-04-24 21:31:39 [INFO] [ModMode] Enabling ModMode v1.0
+2012-04-24 21:31:39 [INFO] [WorldGuard] Enabling WorldGuard v5.6-SNAPSHOT
+2012-04-24 21:31:39 [INFO] [WorldGuard] (world) TNT ignition is PERMITTED.
+2012-04-24 21:31:39 [INFO] [WorldGuard] (world) Lighters are PERMITTED.
+2012-04-24 21:31:39 [INFO] [WorldGuard] (world) Lava fire is blocked.
+2012-04-24 21:31:39 [INFO] [WorldGuard] (world) Fire spread is UNRESTRICTED.
+2012-04-24 21:31:39 [INFO] [WorldGuard] Loaded configuration for world 'world'
+2012-04-24 21:31:39 [INFO] [WorldGuard] (world_nether) TNT ignition is PERMITTED.
+2012-04-24 21:31:39 [INFO] [WorldGuard] (world_nether) Lighters are PERMITTED.
+2012-04-24 21:31:39 [INFO] [WorldGuard] (world_nether) Lava fire is blocked.
+2012-04-24 21:31:39 [INFO] [WorldGuard] (world_nether) Fire spread is UNRESTRICTED.
+2012-04-24 21:31:39 [INFO] [WorldGuard] Loaded configuration for world 'world_nether'
+2012-04-24 21:31:39 [INFO] [WorldGuard] (world_the_end) TNT ignition is PERMITTED.
+2012-04-24 21:31:39 [INFO] [WorldGuard] (world_the_end) Lighters are PERMITTED.
+2012-04-24 21:31:39 [INFO] [WorldGuard] (world_the_end) Lava fire is blocked.
+2012-04-24 21:31:39 [INFO] [WorldGuard] (world_the_end) Fire spread is UNRESTRICTED.
+2012-04-24 21:31:39 [INFO] [WorldGuard] Loaded configuration for world 'world_the_end'
+2012-04-24 21:31:40 [INFO] [WorldGuard] 0 regions loaded for 'world'
+2012-04-24 21:31:40 [INFO] [WorldGuard] 0 regions loaded for 'world_nether'
+2012-04-24 21:31:40 [INFO] [WorldGuard] 0 regions loaded for 'world_the_end'
+2012-04-24 21:31:40 [INFO] Server permissions file permissions.yml is empty, ignoring it
+2012-04-24 21:31:40 [INFO] Done (1.255s)! For help, type "help" or "?"
+2012-04-24 21:31:42 [INFO] CONSOLE: Stopping the server..[0m
+2012-04-24 21:31:42 [INFO] Unknown command. Type "help" for help.[0m
+2012-04-24 21:31:42 [INFO] Stopping server
+2012-04-24 21:31:42 [INFO] [LogShit] Disabling LogShit v0.2
+2012-04-24 21:31:42 [INFO] [bPermissions] Disabling bPermissions v2.9.1
+2012-04-24 21:31:42 [INFO] WEPIF: bPermissions detected! Using bPermissions for permissions
+2012-04-24 21:31:42 [INFO] [bPermissions] Disabled
+2012-04-24 21:31:42 [INFO] [WorldEdit] Disabling WorldEdit v5.4-SNAPSHOT
+2012-04-24 21:31:42 [INFO] [ProperTime] Disabling ProperTime v2.2
+2012-04-24 21:31:42 [INFO] [ProperTime v2.2] Thread 0 successfully joined.
+2012-04-24 21:31:42 [INFO] [ProperTime v2.2] Thread 1 successfully joined.
+2012-04-24 21:31:42 [INFO] [ProperTime v2.2] Thread 2 successfully joined.
+2012-04-24 21:31:42 [INFO] [ProperTime v2.2] Signing off.
+2012-04-24 21:31:42 [INFO] [ModMode] Disabling ModMode v1.0
+2012-04-24 21:31:42 [INFO] [WorldGuard] Disabling WorldGuard v5.6-SNAPSHOT
+2012-04-24 21:31:42 [INFO] Saving chunks
+2012-04-24 21:31:42 [INFO] Stopping server
+2012-04-24 21:31:49 [INFO] Starting minecraft server version 1.2.5
+2012-04-24 21:31:49 [INFO] Loading properties
+2012-04-24 21:31:49 [INFO] Starting Minecraft server on *:25565
+2012-04-24 21:31:50 [INFO] This server is running NerdBukkit version git-Bukkit-"80cf67a" (MC: 1.2.5) (Implementing API version 1.2.5-R1.0)
+2012-04-24 21:31:50 [INFO] [LogShit] Loading LogShit v0.2
+2012-04-24 21:31:50 [INFO] [bPermissions] Loading bPermissions v2.9.1
+2012-04-24 21:31:50 [INFO] [WorldEdit] Loading WorldEdit v5.4-SNAPSHOT
+2012-04-24 21:31:50 [INFO] [NoCheatPlus] Loading NoCheatPlus v3.5.8
+2012-04-24 21:31:50 [INFO] [ProperTime] Loading ProperTime v2.2
+2012-04-24 21:31:50 [INFO] [ModMode] Loading ModMode v1.0
+2012-04-24 21:31:50 [INFO] [WorldGuard] Loading WorldGuard v5.6-SNAPSHOT
+2012-04-24 21:31:50 [INFO] Preparing level "world"
+2012-04-24 21:31:50 [INFO] Default game type: 0
+2012-04-24 21:31:50 [INFO] Preparing start region for level 0 (Seed: -212515882441246010)
+2012-04-24 21:31:50 [INFO] Preparing start region for level 1 (Seed: -212515882441246010)
+2012-04-24 21:31:51 [INFO] Preparing start region for level 2 (Seed: -212515882441246010)
+2012-04-24 21:31:51 [INFO] [LogShit] Enabling LogShit v0.2
+2012-04-24 21:31:51 [INFO] [bPermissions] Enabling bPermissions v2.9.1
+2012-04-24 21:31:51 [INFO] [bPermissions] Loading world: world
+2012-04-24 21:31:51 [INFO] [bPermissions] Loading world: world_nether
+2012-04-24 21:31:51 [INFO] [bPermissions] Loading world: world_the_end
+2012-04-24 21:31:51 [INFO] [bPermissions] Enabled
+2012-04-24 21:31:51 [INFO] [WorldEdit] Enabling WorldEdit v5.4-SNAPSHOT
+2012-04-24 21:31:51 [INFO] WEPIF: bPermissions detected! Using bPermissions for permissions
+2012-04-24 21:31:51 [INFO] [NoCheatPlus] Enabling NoCheatPlus v3.5.8
+2012-04-24 21:31:51 [INFO] [NoCheatPlus] version [3.5.8] is enabled.
+2012-04-24 21:31:51 [INFO] [ProperTime] Enabling ProperTime v2.2
+2012-04-24 21:31:51 [INFO] [ProperTime v2.2] World set to: world.
+2012-04-24 21:31:51 [INFO] [ProperTime v2.2] World: world - SpeedDay: 1.0
+2012-04-24 21:31:51 [INFO] [ProperTime v2.2] World: world - SpeedNight: 1.0
+2012-04-24 21:31:51 [INFO] [ProperTime v2.2] World: world - SpeedDusk: 1.0
+2012-04-24 21:31:51 [INFO] [ProperTime v2.2] World: world - SpeedDawn: 1.0
+2012-04-24 21:31:51 [INFO] [ProperTime v2.2] World: world - Perma: -1
+2012-04-24 21:31:51 [INFO] [ProperTime v2.2] World set to: world_nether.
+2012-04-24 21:31:51 [INFO] [ProperTime v2.2] World: world_nether - SpeedDay: 1.0
+2012-04-24 21:31:51 [INFO] [ProperTime v2.2] World: world_nether - SpeedNight: 1.0
+2012-04-24 21:31:51 [INFO] [ProperTime v2.2] World: world_nether - SpeedDusk: 1.0
+2012-04-24 21:31:51 [INFO] [ProperTime v2.2] World: world_nether - SpeedDawn: 1.0
+2012-04-24 21:31:51 [INFO] [ProperTime v2.2] World: world_nether - Perma: -1
+2012-04-24 21:31:51 [INFO] [ProperTime v2.2] World set to: world_the_end.
+2012-04-24 21:31:51 [INFO] [ProperTime v2.2] World: world_the_end - SpeedDay: 1.0
+2012-04-24 21:31:51 [INFO] [ProperTime v2.2] World: world_the_end - SpeedNight: 1.0
+2012-04-24 21:31:51 [INFO] [ProperTime v2.2] World: world_the_end - SpeedDusk: 1.0
+2012-04-24 21:31:51 [INFO] [ProperTime v2.2] World: world_the_end - SpeedDawn: 1.0
+2012-04-24 21:31:51 [INFO] [ProperTime v2.2] World: world_the_end - Perma: -1
+2012-04-24 21:31:51 [INFO] [ProperTime v2.2] Initialized.
+2012-04-24 21:31:51 [INFO] [ModMode] Enabling ModMode v1.0
+2012-04-24 21:31:51 [INFO] [WorldGuard] Enabling WorldGuard v5.6-SNAPSHOT
+2012-04-24 21:31:51 [INFO] [WorldGuard] (world) TNT ignition is PERMITTED.
+2012-04-24 21:31:51 [INFO] [WorldGuard] (world) Lighters are PERMITTED.
+2012-04-24 21:31:51 [INFO] [WorldGuard] (world) Lava fire is blocked.
+2012-04-24 21:31:51 [INFO] [WorldGuard] (world) Fire spread is UNRESTRICTED.
+2012-04-24 21:31:51 [INFO] [WorldGuard] Loaded configuration for world 'world'
+2012-04-24 21:31:51 [INFO] [WorldGuard] (world_nether) TNT ignition is PERMITTED.
+2012-04-24 21:31:51 [INFO] [WorldGuard] (world_nether) Lighters are PERMITTED.
+2012-04-24 21:31:51 [INFO] [WorldGuard] (world_nether) Lava fire is blocked.
+2012-04-24 21:31:51 [INFO] [WorldGuard] (world_nether) Fire spread is UNRESTRICTED.
+2012-04-24 21:31:51 [INFO] [WorldGuard] Loaded configuration for world 'world_nether'
+2012-04-24 21:31:51 [INFO] [WorldGuard] (world_the_end) TNT ignition is PERMITTED.
+2012-04-24 21:31:51 [INFO] [WorldGuard] (world_the_end) Lighters are PERMITTED.
+2012-04-24 21:31:51 [INFO] [WorldGuard] (world_the_end) Lava fire is blocked.
+2012-04-24 21:31:51 [INFO] [WorldGuard] (world_the_end) Fire spread is UNRESTRICTED.
+2012-04-24 21:31:51 [INFO] [WorldGuard] Loaded configuration for world 'world_the_end'
+2012-04-24 21:31:51 [INFO] [WorldGuard] 0 regions loaded for 'world'
+2012-04-24 21:31:51 [INFO] [WorldGuard] 0 regions loaded for 'world_nether'
+2012-04-24 21:31:51 [INFO] [WorldGuard] 0 regions loaded for 'world_the_end'
+2012-04-24 21:31:51 [INFO] Server permissions file permissions.yml is empty, ignoring it
+2012-04-24 21:31:51 [INFO] Done (1.406s)! For help, type "help" or "?"
+2012-04-24 21:31:57 [INFO] CONSOLE: Stopping the server..[0m
+2012-04-24 21:31:57 [INFO] Unknown command. Type "help" for help.[0m
+2012-04-24 21:31:57 [INFO] Stopping server
+2012-04-24 21:31:57 [INFO] [LogShit] Disabling LogShit v0.2
+2012-04-24 21:31:57 [INFO] [bPermissions] Disabling bPermissions v2.9.1
+2012-04-24 21:31:57 [INFO] WEPIF: bPermissions detected! Using bPermissions for permissions
+2012-04-24 21:31:57 [INFO] [bPermissions] Disabled
+2012-04-24 21:31:57 [INFO] [WorldEdit] Disabling WorldEdit v5.4-SNAPSHOT
+2012-04-24 21:31:57 [INFO] [NoCheatPlus] Disabling NoCheatPlus v3.5.8
+2012-04-24 21:31:57 [INFO] [NoCheatPlus] version [3.5.8] is disabled.
+2012-04-24 21:31:57 [INFO] [ProperTime] Disabling ProperTime v2.2
+2012-04-24 21:31:57 [INFO] [ProperTime v2.2] Thread 0 successfully joined.
+2012-04-24 21:31:57 [INFO] [ProperTime v2.2] Thread 1 successfully joined.
+2012-04-24 21:31:57 [INFO] [ProperTime v2.2] Thread 2 successfully joined.
+2012-04-24 21:31:57 [INFO] [ProperTime v2.2] Signing off.
+2012-04-24 21:31:57 [INFO] [ModMode] Disabling ModMode v1.0
+2012-04-24 21:31:57 [INFO] [WorldGuard] Disabling WorldGuard v5.6-SNAPSHOT
+2012-04-24 21:31:57 [INFO] Saving chunks
+2012-04-24 21:32:09 [INFO] Starting minecraft server version 1.2.5
+2012-04-24 21:32:09 [INFO] Loading properties
+2012-04-24 21:32:09 [INFO] Starting Minecraft server on *:25565
+2012-04-24 21:32:09 [INFO] This server is running NerdBukkit version git-Bukkit-"80cf67a" (MC: 1.2.5) (Implementing API version 1.2.5-R1.0)
+2012-04-24 21:32:09 [INFO] [LogShit] Loading LogShit v0.2
+2012-04-24 21:32:09 [INFO] [bPermissions] Loading bPermissions v2.9.1
+2012-04-24 21:32:09 [INFO] [WorldEdit] Loading WorldEdit v5.4-SNAPSHOT
+2012-04-24 21:32:09 [INFO] [NoCheatPlus] Loading NoCheatPlus v3.5.8
+2012-04-24 21:32:09 [INFO] [ProperTime] Loading ProperTime v2.2
+2012-04-24 21:32:09 [INFO] [ModMode] Loading ModMode v1.0
+2012-04-24 21:32:09 [INFO] [CommandHelper] Loading CommandHelper v3.3.1-SNAPSHOT
+2012-04-24 21:32:09 [INFO] [CommandBook] Loading CommandBook v2.2-SNAPSHOT
+2012-04-24 21:32:09 [INFO] [WorldGuard] Loading WorldGuard v5.6-SNAPSHOT
+2012-04-24 21:32:09 [INFO] Preparing level "world"
+2012-04-24 21:32:09 [INFO] Default game type: 0
+2012-04-24 21:32:09 [INFO] Preparing start region for level 0 (Seed: -212515882441246010)
+2012-04-24 21:32:10 [INFO] Preparing start region for level 1 (Seed: -212515882441246010)
+2012-04-24 21:32:10 [INFO] Preparing start region for level 2 (Seed: -212515882441246010)
+2012-04-24 21:32:10 [INFO] [LogShit] Enabling LogShit v0.2
+2012-04-24 21:32:10 [INFO] [bPermissions] Enabling bPermissions v2.9.1
+2012-04-24 21:32:10 [INFO] [bPermissions] Loading world: world
+2012-04-24 21:32:10 [INFO] [bPermissions] Loading world: world_nether
+2012-04-24 21:32:10 [INFO] [bPermissions] Loading world: world_the_end
+2012-04-24 21:32:10 [INFO] [bPermissions] Enabled
+2012-04-24 21:32:10 [INFO] [WorldEdit] Enabling WorldEdit v5.4-SNAPSHOT
+2012-04-24 21:32:10 [INFO] WEPIF: bPermissions detected! Using bPermissions for permissions
+2012-04-24 21:32:11 [INFO] [NoCheatPlus] Enabling NoCheatPlus v3.5.8
+2012-04-24 21:32:11 [INFO] [NoCheatPlus] version [3.5.8] is enabled.
+2012-04-24 21:32:11 [INFO] [ProperTime] Enabling ProperTime v2.2
+2012-04-24 21:32:11 [INFO] [ProperTime v2.2] World set to: world.
+2012-04-24 21:32:11 [INFO] [ProperTime v2.2] World: world - SpeedDay: 1.0
+2012-04-24 21:32:11 [INFO] [ProperTime v2.2] World: world - SpeedNight: 1.0
+2012-04-24 21:32:11 [INFO] [ProperTime v2.2] World: world - SpeedDusk: 1.0
+2012-04-24 21:32:11 [INFO] [ProperTime v2.2] World: world - SpeedDawn: 1.0
+2012-04-24 21:32:11 [INFO] [ProperTime v2.2] World: world - Perma: -1
+2012-04-24 21:32:11 [INFO] [ProperTime v2.2] World set to: world_nether.
+2012-04-24 21:32:11 [INFO] [ProperTime v2.2] World: world_nether - SpeedDay: 1.0
+2012-04-24 21:32:11 [INFO] [ProperTime v2.2] World: world_nether - SpeedNight: 1.0
+2012-04-24 21:32:11 [INFO] [ProperTime v2.2] World: world_nether - SpeedDusk: 1.0
+2012-04-24 21:32:11 [INFO] [ProperTime v2.2] World: world_nether - SpeedDawn: 1.0
+2012-04-24 21:32:11 [INFO] [ProperTime v2.2] World: world_nether - Perma: -1
+2012-04-24 21:32:11 [INFO] [ProperTime v2.2] World set to: world_the_end.
+2012-04-24 21:32:11 [INFO] [ProperTime v2.2] World: world_the_end - SpeedDay: 1.0
+2012-04-24 21:32:11 [INFO] [ProperTime v2.2] World: world_the_end - SpeedNight: 1.0
+2012-04-24 21:32:11 [INFO] [ProperTime v2.2] World: world_the_end - SpeedDusk: 1.0
+2012-04-24 21:32:11 [INFO] [ProperTime v2.2] World: world_the_end - SpeedDawn: 1.0
+2012-04-24 21:32:11 [INFO] [ProperTime v2.2] World: world_the_end - Perma: -1
+2012-04-24 21:32:11 [INFO] [ProperTime v2.2] Initialized.
+2012-04-24 21:32:11 [INFO] [ModMode] Enabling ModMode v1.0
+2012-04-24 21:32:11 [INFO] [CommandHelper] Enabling CommandHelper v3.3.1-SNAPSHOT
+2012-04-24 21:32:11 [INFO] CommandHelper/CommandHelper 3.3.1-SNAPSHOT enabled
+2012-04-24 21:32:11 [INFO] 
+
+
+     _/_/_/                                                                _/   
+  _/        _/_/   _/_/_/  _/_/   _/_/_/  _/_/     _/_/_/ _/_/_/     _/_/_/    
+ _/      _/    _/ _/    _/    _/ _/    _/    _/ _/    _/ _/    _/ _/    _/     
+_/      _/    _/ _/    _/    _/ _/    _/    _/ _/    _/ _/    _/ _/    _/      
+ _/_/_/  _/_/   _/    _/    _/ _/    _/    _/   _/_/_/ _/    _/   _/_/_/       
+                                                                                                                                                                                                                                                                
+                      _/    _/            _/                                
+                     _/    _/    _/_/    _/  _/_/_/      _/_/    _/  _/_/   
+                    _/_/_/_/  _/_/_/_/  _/  _/    _/  _/_/_/_/  _/_/        
+                   _/    _/  _/        _/  _/    _/  _/        _/           
+                  _/    _/    _/_/_/  _/  _/_/_/      _/_/_/  _/            
+                                         _/                                 
+                                        _/                                 
+
+2012-04-24 21:32:11 [INFO] CommandHelper: Welcome to this server, which is running CommandHelper! (Change this message in plugins/CommandHelper/main.ms)
+2012-04-24 21:32:11 [INFO] [CommandHelper]: MethodScript files processed
+2012-04-24 21:32:11 [INFO] [CommandHelper]: 14 alias(es) defined.
+2012-04-24 21:32:11 [INFO] [CommandBook] Enabling CommandBook v2.2-SNAPSHOT
+2012-04-24 21:32:11 [INFO] [CommandBook] Maximum wrapper compatibility is enabled. Some features have been disabled to be compatible with poorly written server wrappers.
+2012-04-24 21:32:11 [FINEST] [CommandBook] Component Sessions successfully enabled!
+2012-04-24 21:32:11 [FINEST] [CommandBook] Component Bans successfully enabled!
+2012-04-24 21:32:11 [WARNING] [CommandBook] Failed to load warps: plugins\CommandBook\homes.csv (The system cannot find the file specified)
+2012-04-24 21:32:11 [FINEST] [CommandBook] Component Homes successfully enabled!
+2012-04-24 21:32:11 [WARNING] [CommandBook] Failed to load warps: plugins\CommandBook\warps.csv (The system cannot find the file specified)
+2012-04-24 21:32:11 [FINEST] [CommandBook] Component Warps successfully enabled!
+2012-04-24 21:32:11 [FINEST] [CommandBook] Component Messaging successfully enabled!
+2012-04-24 21:32:11 [FINEST] [CommandBook] Component Teleports successfully enabled!
+2012-04-24 21:32:11 [FINEST] [CommandBook] Component Inventory successfully enabled!
+2012-04-24 21:32:11 [INFO] [CommandBook] Default configuration file written: kits.txt
+2012-04-24 21:32:11 [INFO] [CommandBook] 1 kit(s) loaded.
+2012-04-24 21:32:11 [FINEST] [CommandBook] Component Kits successfully enabled!
+2012-04-24 21:32:11 [FINEST] [CommandBook] Component JingleNote successfully enabled!
+2012-04-24 21:32:11 [FINEST] [CommandBook] Component Time Control successfully enabled!
+2012-04-24 21:32:11 [FINEST] [CommandBook] Component Name Verification successfully enabled!
+2012-04-24 21:32:11 [FINEST] [CommandBook] Component Fun successfully enabled!
+2012-04-24 21:32:11 [FINEST] [CommandBook] Component Debug successfully enabled!
+2012-04-24 21:32:11 [FINEST] [CommandBook] Component Thor successfully enabled!
+2012-04-24 21:32:11 [FINEST] [CommandBook] Component Online List successfully enabled!
+2012-04-24 21:32:11 [FINEST] [CommandBook] Component Stored Messages successfully enabled!
+2012-04-24 21:32:11 [FINEST] [CommandBook] Component Spawn Locations successfully enabled!
+2012-04-24 21:32:11 [FINEST] [CommandBook] Component Info successfully enabled!
+2012-04-24 21:32:11 [FINEST] [CommandBook] Component World Tools successfully enabled!
+2012-04-24 21:32:11 [FINEST] [CommandBook] Component Player Commands successfully enabled!
+2012-04-24 21:32:11 [FINEST] [CommandBook] Component God successfully enabled!
+2012-04-24 21:32:11 [INFO] [WorldGuard] Enabling WorldGuard v5.6-SNAPSHOT
+2012-04-24 21:32:12 [INFO] [WorldGuard] (world) TNT ignition is PERMITTED.
+2012-04-24 21:32:12 [INFO] [WorldGuard] (world) Lighters are PERMITTED.
+2012-04-24 21:32:12 [INFO] [WorldGuard] (world) Lava fire is blocked.
+2012-04-24 21:32:12 [INFO] [WorldGuard] (world) Fire spread is UNRESTRICTED.
+2012-04-24 21:32:12 [INFO] [WorldGuard] Loaded configuration for world 'world'
+2012-04-24 21:32:12 [INFO] [WorldGuard] (world_nether) TNT ignition is PERMITTED.
+2012-04-24 21:32:12 [INFO] [WorldGuard] (world_nether) Lighters are PERMITTED.
+2012-04-24 21:32:12 [INFO] [WorldGuard] (world_nether) Lava fire is blocked.
+2012-04-24 21:32:12 [INFO] [WorldGuard] (world_nether) Fire spread is UNRESTRICTED.
+2012-04-24 21:32:12 [INFO] [WorldGuard] Loaded configuration for world 'world_nether'
+2012-04-24 21:32:12 [INFO] [WorldGuard] (world_the_end) TNT ignition is PERMITTED.
+2012-04-24 21:32:12 [INFO] [WorldGuard] (world_the_end) Lighters are PERMITTED.
+2012-04-24 21:32:12 [INFO] [WorldGuard] (world_the_end) Lava fire is blocked.
+2012-04-24 21:32:12 [INFO] [WorldGuard] (world_the_end) Fire spread is UNRESTRICTED.
+2012-04-24 21:32:12 [INFO] [WorldGuard] Loaded configuration for world 'world_the_end'
+2012-04-24 21:32:12 [INFO] [WorldGuard] 0 regions loaded for 'world'
+2012-04-24 21:32:12 [INFO] [WorldGuard] 0 regions loaded for 'world_nether'
+2012-04-24 21:32:12 [INFO] [WorldGuard] 0 regions loaded for 'world_the_end'
+2012-04-24 21:32:12 [INFO] Server permissions file permissions.yml is empty, ignoring it
+2012-04-24 21:32:12 [INFO] Done (2.193s)! For help, type "help" or "?"
+2012-04-24 21:32:24 [INFO] CONSOLE: Stopping the server..[0m
+2012-04-24 21:32:24 [INFO] Unknown command. Type "help" for help.[0m
+2012-04-24 21:32:24 [INFO] Stopping server
+2012-04-24 21:32:24 [INFO] [LogShit] Disabling LogShit v0.2
+2012-04-24 21:32:24 [INFO] [bPermissions] Disabling bPermissions v2.9.1
+2012-04-24 21:32:24 [INFO] WEPIF: bPermissions detected! Using bPermissions for permissions
+2012-04-24 21:32:24 [INFO] [bPermissions] Disabled
+2012-04-24 21:32:24 [INFO] [WorldEdit] Disabling WorldEdit v5.4-SNAPSHOT
+2012-04-24 21:32:24 [INFO] [NoCheatPlus] Disabling NoCheatPlus v3.5.8
+2012-04-24 21:32:24 [INFO] [NoCheatPlus] version [3.5.8] is disabled.
+2012-04-24 21:32:24 [INFO] [ProperTime] Disabling ProperTime v2.2
+2012-04-24 21:32:24 [INFO] [ProperTime v2.2] Thread 0 successfully joined.
+2012-04-24 21:32:24 [INFO] [ProperTime v2.2] Thread 1 successfully joined.
+2012-04-24 21:32:24 [INFO] [ProperTime v2.2] Thread 2 successfully joined.
+2012-04-24 21:32:24 [INFO] [ProperTime v2.2] Signing off.
+2012-04-24 21:32:24 [INFO] [ModMode] Disabling ModMode v1.0
+2012-04-24 21:32:24 [INFO] [CommandHelper] Disabling CommandHelper v3.3.1-SNAPSHOT
+2012-04-24 21:32:24 [INFO] [CommandBook] Disabling CommandBook v2.2-SNAPSHOT
+2012-04-24 21:32:24 [INFO] [WorldGuard] Disabling WorldGuard v5.6-SNAPSHOT
+2012-04-24 21:32:24 [INFO] Saving chunks
+2012-04-24 21:32:26 [INFO] Starting minecraft server version 1.2.5
+2012-04-24 21:32:26 [INFO] Loading properties
+2012-04-24 21:32:26 [INFO] Starting Minecraft server on *:25565
+2012-04-24 21:32:26 [INFO] This server is running NerdBukkit version git-Bukkit-"80cf67a" (MC: 1.2.5) (Implementing API version 1.2.5-R1.0)
+2012-04-24 21:32:27 [INFO] [LogShit] Loading LogShit v0.2
+2012-04-24 21:32:27 [INFO] [bPermissions] Loading bPermissions v2.9.1
+2012-04-24 21:32:27 [INFO] [WorldEdit] Loading WorldEdit v5.4-SNAPSHOT
+2012-04-24 21:32:27 [INFO] [NoCheatPlus] Loading NoCheatPlus v3.5.8
+2012-04-24 21:32:27 [INFO] [ProperTime] Loading ProperTime v2.2
+2012-04-24 21:32:27 [INFO] [ModMode] Loading ModMode v1.0
+2012-04-24 21:32:27 [INFO] [CommandHelper] Loading CommandHelper v3.3.1-SNAPSHOT
+2012-04-24 21:32:27 [INFO] [CommandBook] Loading CommandBook v2.2-SNAPSHOT
+2012-04-24 21:32:27 [INFO] [WorldGuard] Loading WorldGuard v5.6-SNAPSHOT
+2012-04-24 21:32:27 [INFO] Preparing level "world"
+2012-04-24 21:32:27 [INFO] Default game type: 0
+2012-04-24 21:32:27 [INFO] Preparing start region for level 0 (Seed: -212515882441246010)
+2012-04-24 21:32:27 [INFO] Preparing start region for level 1 (Seed: -212515882441246010)
+2012-04-24 21:32:28 [INFO] Preparing start region for level 2 (Seed: -212515882441246010)
+2012-04-24 21:32:28 [INFO] [LogShit] Enabling LogShit v0.2
+2012-04-24 21:32:28 [INFO] [bPermissions] Enabling bPermissions v2.9.1
+2012-04-24 21:32:28 [INFO] [bPermissions] Loading world: world
+2012-04-24 21:32:28 [INFO] [bPermissions] Loading world: world_nether
+2012-04-24 21:32:28 [INFO] [bPermissions] Loading world: world_the_end
+2012-04-24 21:32:28 [INFO] [bPermissions] Enabled
+2012-04-24 21:32:28 [INFO] [WorldEdit] Enabling WorldEdit v5.4-SNAPSHOT
+2012-04-24 21:32:28 [INFO] WEPIF: bPermissions detected! Using bPermissions for permissions
+2012-04-24 21:32:28 [INFO] [NoCheatPlus] Enabling NoCheatPlus v3.5.8
+2012-04-24 21:32:28 [INFO] [NoCheatPlus] version [3.5.8] is enabled.
+2012-04-24 21:32:28 [INFO] [ProperTime] Enabling ProperTime v2.2
+2012-04-24 21:32:28 [INFO] [ProperTime v2.2] World set to: world.
+2012-04-24 21:32:28 [INFO] [ProperTime v2.2] World: world - SpeedDay: 1.0
+2012-04-24 21:32:28 [INFO] [ProperTime v2.2] World: world - SpeedNight: 1.0
+2012-04-24 21:32:28 [INFO] [ProperTime v2.2] World: world - SpeedDusk: 1.0
+2012-04-24 21:32:28 [INFO] [ProperTime v2.2] World: world - SpeedDawn: 1.0
+2012-04-24 21:32:28 [INFO] [ProperTime v2.2] World: world - Perma: -1
+2012-04-24 21:32:28 [INFO] [ProperTime v2.2] World set to: world_nether.
+2012-04-24 21:32:28 [INFO] [ProperTime v2.2] World: world_nether - SpeedDay: 1.0
+2012-04-24 21:32:28 [INFO] [ProperTime v2.2] World: world_nether - SpeedNight: 1.0
+2012-04-24 21:32:28 [INFO] [ProperTime v2.2] World: world_nether - SpeedDusk: 1.0
+2012-04-24 21:32:28 [INFO] [ProperTime v2.2] World: world_nether - SpeedDawn: 1.0
+2012-04-24 21:32:28 [INFO] [ProperTime v2.2] World: world_nether - Perma: -1
+2012-04-24 21:32:28 [INFO] [ProperTime v2.2] World set to: world_the_end.
+2012-04-24 21:32:28 [INFO] [ProperTime v2.2] World: world_the_end - SpeedDay: 1.0
+2012-04-24 21:32:28 [INFO] [ProperTime v2.2] World: world_the_end - SpeedNight: 1.0
+2012-04-24 21:32:28 [INFO] [ProperTime v2.2] World: world_the_end - SpeedDusk: 1.0
+2012-04-24 21:32:28 [INFO] [ProperTime v2.2] World: world_the_end - SpeedDawn: 1.0
+2012-04-24 21:32:28 [INFO] [ProperTime v2.2] World: world_the_end - Perma: -1
+2012-04-24 21:32:28 [INFO] [ProperTime v2.2] Initialized.
+2012-04-24 21:32:28 [INFO] [ModMode] Enabling ModMode v1.0
+2012-04-24 21:32:28 [INFO] [CommandHelper] Enabling CommandHelper v3.3.1-SNAPSHOT
+2012-04-24 21:32:28 [INFO] CommandHelper/CommandHelper 3.3.1-SNAPSHOT enabled
+2012-04-24 21:32:28 [INFO] 
+
+
+     _/_/_/                                                                _/   
+  _/        _/_/   _/_/_/  _/_/   _/_/_/  _/_/     _/_/_/ _/_/_/     _/_/_/    
+ _/      _/    _/ _/    _/    _/ _/    _/    _/ _/    _/ _/    _/ _/    _/     
+_/      _/    _/ _/    _/    _/ _/    _/    _/ _/    _/ _/    _/ _/    _/      
+ _/_/_/  _/_/   _/    _/    _/ _/    _/    _/   _/_/_/ _/    _/   _/_/_/       
+                                                                                                                                                                                                                                                                
+                      _/    _/            _/                                
+                     _/    _/    _/_/    _/  _/_/_/      _/_/    _/  _/_/   
+                    _/_/_/_/  _/_/_/_/  _/  _/    _/  _/_/_/_/  _/_/        
+                   _/    _/  _/        _/  _/    _/  _/        _/           
+                  _/    _/    _/_/_/  _/  _/_/_/      _/_/_/  _/            
+                                         _/                                 
+                                        _/                                 
+
+2012-04-24 21:32:28 [INFO] CommandHelper: Welcome to this server, which is running CommandHelper! (Change this message in plugins/CommandHelper/main.ms)
+2012-04-24 21:32:29 [INFO] [CommandHelper]: MethodScript files processed
+2012-04-24 21:32:29 [INFO] [CommandHelper]: 14 alias(es) defined.
+2012-04-24 21:32:29 [INFO] [CommandBook] Enabling CommandBook v2.2-SNAPSHOT
+2012-04-24 21:32:29 [INFO] [CommandBook] Maximum wrapper compatibility is enabled. Some features have been disabled to be compatible with poorly written server wrappers.
+2012-04-24 21:32:29 [FINEST] [CommandBook] Component Sessions successfully enabled!
+2012-04-24 21:32:29 [FINEST] [CommandBook] Component Bans successfully enabled!
+2012-04-24 21:32:29 [WARNING] [CommandBook] Failed to load warps: plugins\CommandBook\homes.csv (The system cannot find the file specified)
+2012-04-24 21:32:29 [FINEST] [CommandBook] Component Homes successfully enabled!
+2012-04-24 21:32:29 [WARNING] [CommandBook] Failed to load warps: plugins\CommandBook\warps.csv (The system cannot find the file specified)
+2012-04-24 21:32:29 [FINEST] [CommandBook] Component Warps successfully enabled!
+2012-04-24 21:32:29 [FINEST] [CommandBook] Component Messaging successfully enabled!
+2012-04-24 21:32:29 [FINEST] [CommandBook] Component Teleports successfully enabled!
+2012-04-24 21:32:29 [FINEST] [CommandBook] Component Inventory successfully enabled!
+2012-04-24 21:32:29 [INFO] [CommandBook] 1 kit(s) loaded.
+2012-04-24 21:32:29 [FINEST] [CommandBook] Component Kits successfully enabled!
+2012-04-24 21:32:29 [FINEST] [CommandBook] Component JingleNote successfully enabled!
+2012-04-24 21:32:29 [FINEST] [CommandBook] Component Time Control successfully enabled!
+2012-04-24 21:32:29 [FINEST] [CommandBook] Component Name Verification successfully enabled!
+2012-04-24 21:32:29 [FINEST] [CommandBook] Component Fun successfully enabled!
+2012-04-24 21:32:29 [FINEST] [CommandBook] Component Debug successfully enabled!
+2012-04-24 21:32:29 [FINEST] [CommandBook] Component Thor successfully enabled!
+2012-04-24 21:32:29 [FINEST] [CommandBook] Component Online List successfully enabled!
+2012-04-24 21:32:29 [FINEST] [CommandBook] Component Stored Messages successfully enabled!
+2012-04-24 21:32:29 [FINEST] [CommandBook] Component Spawn Locations successfully enabled!
+2012-04-24 21:32:29 [FINEST] [CommandBook] Component Info successfully enabled!
+2012-04-24 21:32:29 [FINEST] [CommandBook] Component World Tools successfully enabled!
+2012-04-24 21:32:29 [FINEST] [CommandBook] Component Player Commands successfully enabled!
+2012-04-24 21:32:29 [FINEST] [CommandBook] Component God successfully enabled!
+2012-04-24 21:32:29 [INFO] [WorldGuard] Enabling WorldGuard v5.6-SNAPSHOT
+2012-04-24 21:32:29 [INFO] [WorldGuard] (world) TNT ignition is PERMITTED.
+2012-04-24 21:32:29 [INFO] [WorldGuard] (world) Lighters are PERMITTED.
+2012-04-24 21:32:29 [INFO] [WorldGuard] (world) Lava fire is blocked.
+2012-04-24 21:32:29 [INFO] [WorldGuard] (world) Fire spread is UNRESTRICTED.
+2012-04-24 21:32:29 [INFO] [WorldGuard] Loaded configuration for world 'world'
+2012-04-24 21:32:29 [INFO] [WorldGuard] (world_nether) TNT ignition is PERMITTED.
+2012-04-24 21:32:29 [INFO] [WorldGuard] (world_nether) Lighters are PERMITTED.
+2012-04-24 21:32:29 [INFO] [WorldGuard] (world_nether) Lava fire is blocked.
+2012-04-24 21:32:29 [INFO] [WorldGuard] (world_nether) Fire spread is UNRESTRICTED.
+2012-04-24 21:32:29 [INFO] [WorldGuard] Loaded configuration for world 'world_nether'
+2012-04-24 21:32:29 [INFO] [WorldGuard] (world_the_end) TNT ignition is PERMITTED.
+2012-04-24 21:32:29 [INFO] [WorldGuard] (world_the_end) Lighters are PERMITTED.
+2012-04-24 21:32:29 [INFO] [WorldGuard] (world_the_end) Lava fire is blocked.
+2012-04-24 21:32:29 [INFO] [WorldGuard] (world_the_end) Fire spread is UNRESTRICTED.
+2012-04-24 21:32:29 [INFO] [WorldGuard] Loaded configuration for world 'world_the_end'
+2012-04-24 21:32:29 [INFO] [WorldGuard] 0 regions loaded for 'world'
+2012-04-24 21:32:29 [INFO] [WorldGuard] 0 regions loaded for 'world_nether'
+2012-04-24 21:32:29 [INFO] [WorldGuard] 0 regions loaded for 'world_the_end'
+2012-04-24 21:32:29 [INFO] Server permissions file permissions.yml is empty, ignoring it
+2012-04-24 21:32:29 [INFO] Done (2.139s)! For help, type "help" or "?"
+2012-04-24 21:33:28 [INFO] CONSOLE: Stopping the server..[0m
+2012-04-24 21:33:28 [INFO] Unknown command. Type "help" for help.[0m
+2012-04-24 21:33:28 [INFO] Stopping server
+2012-04-24 21:33:28 [INFO] [LogShit] Disabling LogShit v0.2
+2012-04-24 21:33:28 [INFO] [bPermissions] Disabling bPermissions v2.9.1
+2012-04-24 21:33:28 [INFO] WEPIF: bPermissions detected! Using bPermissions for permissions
+2012-04-24 21:33:28 [INFO] [bPermissions] Disabled
+2012-04-24 21:33:28 [INFO] [WorldEdit] Disabling WorldEdit v5.4-SNAPSHOT
+2012-04-24 21:33:28 [INFO] [NoCheatPlus] Disabling NoCheatPlus v3.5.8
+2012-04-24 21:33:28 [INFO] [NoCheatPlus] version [3.5.8] is disabled.
+2012-04-24 21:33:28 [INFO] [ProperTime] Disabling ProperTime v2.2
+2012-04-24 21:33:28 [INFO] [ProperTime v2.2] Thread 0 successfully joined.
+2012-04-24 21:33:28 [INFO] [ProperTime v2.2] Thread 1 successfully joined.
+2012-04-24 21:33:28 [INFO] [ProperTime v2.2] Thread 2 successfully joined.
+2012-04-24 21:33:28 [INFO] [ProperTime v2.2] Signing off.
+2012-04-24 21:33:28 [INFO] [ModMode] Disabling ModMode v1.0
+2012-04-24 21:33:28 [INFO] [CommandHelper] Disabling CommandHelper v3.3.1-SNAPSHOT
+2012-04-24 21:33:28 [INFO] [CommandBook] Disabling CommandBook v2.2-SNAPSHOT
+2012-04-24 21:33:28 [INFO] [WorldGuard] Disabling WorldGuard v5.6-SNAPSHOT
+2012-04-24 21:33:28 [INFO] Saving chunks
+2012-04-24 21:51:48 [INFO] Starting minecraft server version 1.2.5
+2012-04-24 21:51:48 [INFO] Loading properties
+2012-04-24 21:51:48 [INFO] Starting Minecraft server on *:31337
+2012-04-24 21:51:48 [INFO] This server is running NerdBukkit version git-Bukkit-"80cf67a" (MC: 1.2.5) (Implementing API version 1.2.5-R1.0)
+2012-04-24 21:51:48 [INFO] [LogShit] Loading LogShit v0.2
+2012-04-24 21:51:48 [INFO] [bPermissions] Loading bPermissions v2.9.1
+2012-04-24 21:51:48 [INFO] [WorldEdit] Loading WorldEdit v5.4-SNAPSHOT
+2012-04-24 21:51:48 [INFO] [NoCheatPlus] Loading NoCheatPlus v3.5.8
+2012-04-24 21:51:48 [INFO] [ProperTime] Loading ProperTime v2.2
+2012-04-24 21:51:48 [INFO] [ModMode] Loading ModMode v1.0
+2012-04-24 21:51:48 [INFO] [CommandHelper] Loading CommandHelper v3.3.1-SNAPSHOT
+2012-04-24 21:51:48 [INFO] [CommandBook] Loading CommandBook v2.2-SNAPSHOT
+2012-04-24 21:51:48 [INFO] [WorldGuard] Loading WorldGuard v5.6-SNAPSHOT
+2012-04-24 21:51:48 [INFO] Preparing level "world"
+2012-04-24 21:51:48 [INFO] Default game type: 0
+2012-04-24 21:51:48 [INFO] Preparing start region for level 0 (Seed: 7472353216906438656)
+2012-04-24 21:51:48 [INFO] [LogShit] Enabling LogShit v0.2
+2012-04-24 21:51:48 [INFO] [bPermissions] Enabling bPermissions v2.9.1
+2012-04-24 21:51:48 [INFO] [bPermissions] Loading world: world
+2012-04-24 21:51:48 [INFO] [bPermissions] Enabled
+2012-04-24 21:51:48 [INFO] [WorldEdit] Enabling WorldEdit v5.4-SNAPSHOT
+2012-04-24 21:51:48 [INFO] WEPIF: bPermissions detected! Using bPermissions for permissions
+2012-04-24 21:51:48 [INFO] [NoCheatPlus] Enabling NoCheatPlus v3.5.8
+2012-04-24 21:51:48 [INFO] [NoCheatPlus] version [3.5.8] is enabled.
+2012-04-24 21:51:48 [INFO] [ProperTime] Enabling ProperTime v2.2
+2012-04-24 21:51:48 [INFO] [ProperTime v2.2] World set to: world.
+2012-04-24 21:51:48 [INFO] [ProperTime v2.2] World: world - SpeedDay: 1.0
+2012-04-24 21:51:48 [INFO] [ProperTime v2.2] World: world - SpeedNight: 1.0
+2012-04-24 21:51:48 [INFO] [ProperTime v2.2] World: world - SpeedDusk: 1.0
+2012-04-24 21:51:48 [INFO] [ProperTime v2.2] World: world - SpeedDawn: 1.0
+2012-04-24 21:51:48 [INFO] [ProperTime v2.2] World: world - Perma: -1
+2012-04-24 21:51:48 [WARNING] [ProperTime v2.2] World world_nethernot found!
+2012-04-24 21:51:48 [WARNING] [ProperTime v2.2] World world_the_endnot found!
+2012-04-24 21:51:48 [INFO] [ProperTime v2.2] Initialized.
+2012-04-24 21:51:48 [INFO] [ModMode] Enabling ModMode v1.0
+2012-04-24 21:51:48 [INFO] [CommandHelper] Enabling CommandHelper v3.3.1-SNAPSHOT
+2012-04-24 21:51:49 [INFO] CommandHelper/CommandHelper 3.3.1-SNAPSHOT enabled
+2012-04-24 21:51:49 [INFO] 
+
+
+     _/_/_/                                                                _/   
+  _/        _/_/   _/_/_/  _/_/   _/_/_/  _/_/     _/_/_/ _/_/_/     _/_/_/    
+ _/      _/    _/ _/    _/    _/ _/    _/    _/ _/    _/ _/    _/ _/    _/     
+_/      _/    _/ _/    _/    _/ _/    _/    _/ _/    _/ _/    _/ _/    _/      
+ _/_/_/  _/_/   _/    _/    _/ _/    _/    _/   _/_/_/ _/    _/   _/_/_/       
+                                                                                                                                                                                                                                                                
+                      _/    _/            _/                                
+                     _/    _/    _/_/    _/  _/_/_/      _/_/    _/  _/_/   
+                    _/_/_/_/  _/_/_/_/  _/  _/    _/  _/_/_/_/  _/_/        
+                   _/    _/  _/        _/  _/    _/  _/        _/           
+                  _/    _/    _/_/_/  _/  _/_/_/      _/_/_/  _/            
+                                         _/                                 
+                                        _/                                 
+
+2012-04-24 21:51:49 [INFO] CommandHelper: Welcome to this server, which is running CommandHelper! (Change this message in plugins/CommandHelper/main.ms)
+2012-04-24 21:51:49 [INFO] [CommandHelper]: MethodScript files processed
+2012-04-24 21:51:49 [INFO] [CommandHelper]: 14 alias(es) defined.
+2012-04-24 21:51:49 [INFO] [CommandBook] Enabling CommandBook v2.2-SNAPSHOT
+2012-04-24 21:51:49 [INFO] [CommandBook] Maximum wrapper compatibility is enabled. Some features have been disabled to be compatible with poorly written server wrappers.
+2012-04-24 21:51:49 [FINEST] [CommandBook] Component Sessions successfully enabled!
+2012-04-24 21:51:49 [FINEST] [CommandBook] Component Bans successfully enabled!
+2012-04-24 21:51:49 [WARNING] [CommandBook] Failed to load warps: plugins\CommandBook\homes.csv (The system cannot find the file specified)
+2012-04-24 21:51:49 [FINEST] [CommandBook] Component Homes successfully enabled!
+2012-04-24 21:51:49 [WARNING] [CommandBook] Failed to load warps: plugins\CommandBook\warps.csv (The system cannot find the file specified)
+2012-04-24 21:51:49 [FINEST] [CommandBook] Component Warps successfully enabled!
+2012-04-24 21:51:49 [FINEST] [CommandBook] Component Messaging successfully enabled!
+2012-04-24 21:51:49 [FINEST] [CommandBook] Component Teleports successfully enabled!
+2012-04-24 21:51:49 [FINEST] [CommandBook] Component Inventory successfully enabled!
+2012-04-24 21:51:49 [INFO] [CommandBook] 1 kit(s) loaded.
+2012-04-24 21:51:49 [FINEST] [CommandBook] Component Kits successfully enabled!
+2012-04-24 21:51:49 [FINEST] [CommandBook] Component JingleNote successfully enabled!
+2012-04-24 21:51:49 [FINEST] [CommandBook] Component Time Control successfully enabled!
+2012-04-24 21:51:49 [FINEST] [CommandBook] Component Name Verification successfully enabled!
+2012-04-24 21:51:49 [FINEST] [CommandBook] Component Fun successfully enabled!
+2012-04-24 21:51:49 [FINEST] [CommandBook] Component Debug successfully enabled!
+2012-04-24 21:51:49 [FINEST] [CommandBook] Component Thor successfully enabled!
+2012-04-24 21:51:49 [FINEST] [CommandBook] Component Online List successfully enabled!
+2012-04-24 21:51:49 [FINEST] [CommandBook] Component Stored Messages successfully enabled!
+2012-04-24 21:51:49 [FINEST] [CommandBook] Component Spawn Locations successfully enabled!
+2012-04-24 21:51:49 [FINEST] [CommandBook] Component Info successfully enabled!
+2012-04-24 21:51:49 [FINEST] [CommandBook] Component World Tools successfully enabled!
+2012-04-24 21:51:49 [FINEST] [CommandBook] Component Player Commands successfully enabled!
+2012-04-24 21:51:49 [FINEST] [CommandBook] Component God successfully enabled!
+2012-04-24 21:51:49 [INFO] [WorldGuard] Enabling WorldGuard v5.6-SNAPSHOT
+2012-04-24 21:51:49 [INFO] [WorldGuard] (world) TNT ignition is PERMITTED.
+2012-04-24 21:51:49 [INFO] [WorldGuard] (world) Lighters are PERMITTED.
+2012-04-24 21:51:49 [INFO] [WorldGuard] (world) Lava fire is blocked.
+2012-04-24 21:51:49 [INFO] [WorldGuard] (world) Fire spread is UNRESTRICTED.
+2012-04-24 21:51:49 [INFO] [WorldGuard] Loaded configuration for world 'world'
+2012-04-24 21:51:49 [INFO] [WorldGuard] 0 regions loaded for 'world'
+2012-04-24 21:51:49 [INFO] Server permissions file permissions.yml is empty, ignoring it
+2012-04-24 21:51:49 [INFO] Done (1.476s)! For help, type "help" or "?"
+2012-04-24 21:59:05 [INFO] nsstrunks [/108.2.124.41:58188] logged in with entity id 0 at ([world] -46.5, 60.62000000476837, 3.5)
+2012-04-24 21:59:17 [INFO] nsstrunks:/gamemode 1
+2012-04-24 21:59:21 [INFO] <nsstrunks> test[0m
+2012-04-24 21:59:24 [INFO] nsstrunks:/gamemode
+2012-04-24 22:00:40 [INFO] nsstrunks:/world world
+2012-04-24 22:00:44 [INFO] nsstrunks:/world nsstrunks
+2012-04-24 22:00:48 [INFO] nsstrunks:/user world
+2012-04-24 22:00:52 [INFO] nsstrunks:/user setgroup admin
+2012-04-24 22:01:02 [INFO] nsstrunks:/world world
+2012-04-24 22:01:06 [INFO] nsstrunks:/user nsstrunks
+2012-04-24 22:01:11 [INFO] nsstrunks:/user setgroup admin
+2012-04-24 22:01:24 [INFO] nsstrunks:/world unsetgroup admin
+2012-04-24 22:01:34 [INFO] nsstrunks:/user meta prefix Owner
+2012-04-24 22:01:36 [INFO] <nsstrunks> test[0m
+2012-04-24 22:02:33 [INFO] nsstrunks:/vanish
+2012-04-24 22:02:37 [INFO] nsstrunks:/unvanish
+2012-04-24 22:03:16 [INFO] nsstrunks:/gm
+2012-04-24 22:03:18 [INFO] nsstrunks:/gm 1
+2012-04-24 22:03:20 [INFO] nsstrunks:/gm 0
+2012-04-24 22:03:21 [INFO] nsstrunks:/gm 1
+2012-04-24 22:03:23 [INFO] nsstrunks:/heal *
+2012-04-24 22:04:11 [INFO] CH: Running original command on player nsstrunks ----> /time dya
+2012-04-24 22:04:11 [INFO] nsstrunks:/time set dya
+2012-04-24 22:04:11 [INFO] nsstrunks:/time dya
+2012-04-24 22:04:13 [INFO] CH: Running original command on player nsstrunks ----> /time day
+2012-04-24 22:04:13 [INFO] nsstrunks:/time set 1
+2012-04-24 22:04:13 [INFO] nsstrunks:/time day
+2012-04-24 22:04:16 [INFO] nsstrunks:/set time day
+2012-04-24 22:04:19 [INFO] nsstrunks:/time day world
+2012-04-24 22:04:22 [INFO] nsstrunks:/time world day
+2012-04-24 22:04:22 [INFO] [33mnsstrunks set the time of 'world' to 08:00 (8:00 am).[0m
+2012-04-24 22:04:25 [INFO] CH: Running original command on player nsstrunks ----> /help time
+2012-04-24 22:04:25 [INFO] nsstrunks:/help time
+2012-04-24 22:04:27 [INFO] CH: Running original command on player nsstrunks ----> /help
+2012-04-24 22:04:27 [INFO] nsstrunks:/help
+2012-04-24 22:04:30 [INFO] CH: Running original command on player nsstrunks ----> /help
+2012-04-24 22:04:30 [INFO] nsstrunks:/help
+2012-04-24 22:04:34 [INFO] CH: Running original command on player nsstrunks ----> /help /time
+2012-04-24 22:04:34 [INFO] nsstrunks:/help /time
+2012-04-24 22:04:37 [INFO] CH: Running original command on player nsstrunks ----> /help gm
+2012-04-24 22:04:37 [INFO] nsstrunks:/help gm
+2012-04-24 22:04:39 [INFO] CH: Running original command on player nsstrunks ----> /help 1
+2012-04-24 22:04:39 [INFO] nsstrunks:/help 1
+2012-04-24 22:05:35 [INFO] nsstrunks:/gm 0
+2012-04-24 22:05:48 [INFO] nsstrunks:/time world night
+2012-04-24 22:05:48 [INFO] [33mnsstrunks set the time of 'world' to 22:00 (10:00 pm).[0m
+2012-04-24 22:06:24 [INFO] nsstrunks lost connection: disconnect.quitting
+2012-04-24 22:06:24 [INFO] Connection reset
+2012-04-24 22:09:21 [INFO] nsstrunks [/108.2.124.41:58420] logged in with entity id 1595 at ([world] -27.699999988079067, 60.0, -2.5658283751783166)
+2012-04-24 22:10:06 [INFO] nsstrunks:/gm 1
+2012-04-24 22:11:43 [INFO] Pokemon64 [/207.216.7.80:3949] logged in with entity id 1960 at ([world] -54.5, 60.62000000476837, -4.5)
+2012-04-24 22:11:54 [INFO] <nsstrunks> :D[0m
+2012-04-24 22:11:59 [INFO] nsstrunks:/pl
+2012-04-24 22:12:01 [INFO] <Pokemon64> and I am back[0m
+2012-04-24 22:12:07 [INFO] <nsstrunks> type: /pl for the plugin list[0m
+2012-04-24 22:12:13 [INFO] Pokemon64:/pl
+2012-04-24 22:12:18 [INFO] nsstrunks:/vanish
+2012-04-24 22:12:18 [INFO] Pokemon64:/vanish
+2012-04-24 22:12:20 [INFO] <nsstrunks> poof![0m
+2012-04-24 22:12:22 [INFO] Pokemon64:/gm
+2012-04-24 22:12:26 [INFO] Pokemon64:/gm
+2012-04-24 22:12:28 [INFO] <nsstrunks> can you see me above you?[0m
+2012-04-24 22:12:33 [INFO] <Pokemon64> I can.[0m
+2012-04-24 22:12:43 [INFO] <nsstrunks> hmm[0m
+2012-04-24 22:12:45 [INFO] Pokemon64:/gm 1
+2012-04-24 22:12:48 [INFO] <nsstrunks> o yeah, you're op[0m
+2012-04-24 22:12:50 [INFO] <nsstrunks> that's right[0m
+2012-04-24 22:12:57 [INFO] Pokemon64:/deop
+2012-04-24 22:13:08 [INFO] <Pokemon64> Pit frenzy?[0m
+2012-04-24 22:13:12 [INFO] <nsstrunks> lol yeah[0m
+2012-04-24 22:13:13 [INFO] <Pokemon64> I am getting better.[0m
+2012-04-24 22:13:17 [INFO] <nsstrunks> wanna play?[0m
+2012-04-24 22:13:21 [INFO] <Pokemon64> Lets go[0m
+2012-04-24 22:13:22 [INFO] Pokemon64:/gm\
+2012-04-24 22:13:24 [INFO] nsstrunks:/gm 0
+2012-04-24 22:13:26 [INFO] Pokemon64:/gm
+2012-04-24 22:13:28 [INFO] <nsstrunks> make sure to be on survival[0m
+2012-04-24 22:13:29 [INFO] Pokemon64:/gm 0
+2012-04-24 22:13:41 [INFO] <Pokemon64> WAit.[0m
+2012-04-24 22:13:43 [INFO] <nsstrunks> uhh[0m
+2012-04-24 22:13:50 [INFO] <Pokemon64> cant pick up the sword[0m
+2012-04-24 22:13:52 [INFO] <nsstrunks> o right, I'm vanished[0m
+2012-04-24 22:13:54 [INFO] nsstrunks:/unvanish
+2012-04-24 22:14:00 [INFO] Pokemon64:/vanish
+2012-04-24 22:14:08 [INFO] Pokemon64:/unvanish
+2012-04-24 22:14:13 [INFO] <Pokemon64> better.[0m
+2012-04-24 22:14:18 [INFO] <nsstrunks> redo![0m
+2012-04-24 22:14:41 [INFO] <nsstrunks> haha[0m
+2012-04-24 22:14:42 [INFO] nsstrunks:/butcher
+2012-04-24 22:15:44 [INFO] <Pokemon64> Un lucky.[0m
+2012-04-24 22:15:56 [INFO] nsstrunks:/butcher
+2012-04-24 22:15:57 [INFO] <Pokemon64> Honestly, I demand a rematch.[0m
+2012-04-24 22:16:01 [INFO] <nsstrunks> lol[0m
+2012-04-24 22:16:03 [INFO] <nsstrunks> I never got hit[0m
+2012-04-24 22:16:05 [INFO] nsstrunks:/butcher
+2012-04-24 22:16:24 [INFO] nsstrunks:/heal *
+2012-04-24 22:17:16 [INFO] nsstrunks:/butcher
+2012-04-24 22:17:17 [INFO] <Pokemon64> You know what,[0m
+2012-04-24 22:17:18 [INFO] nsstrunks:/butcher
+2012-04-24 22:17:18 [INFO] <nsstrunks> ?[0m
+2012-04-24 22:17:26 [INFO] nsstrunks:/butcher
+2012-04-24 22:17:26 [INFO] <Pokemon64> I quit.[0m
+2012-04-24 22:17:28 [INFO] nsstrunks:/time world day
+2012-04-24 22:17:28 [INFO] [33mnsstrunks set the time of 'world' to 08:00 (8:00 am).[0m
+2012-04-24 22:17:29 [INFO] <nsstrunks> rofl[0m
+2012-04-24 22:17:33 [INFO] nsstrunks:/butcher
+2012-04-24 22:17:36 [INFO] <Pokemon64> I was doing WAY better.[0m
+2012-04-24 22:17:41 [INFO] <Pokemon64> like 4 wins in a row.[0m
+2012-04-24 22:17:51 [INFO] nsstrunks:/butcher
+2012-04-24 22:17:55 [INFO] Connection reset
+2012-04-24 22:17:55 [INFO] Pokemon64 lost connection: disconnect.quitting
+2012-04-24 22:18:01 [INFO] Connection reset
+2012-04-24 22:18:01 [INFO] nsstrunks lost connection: disconnect.quitting
+2012-04-24 22:18:04 [INFO] CONSOLE: Stopping the server..[0m
+2012-04-24 22:18:04 [INFO] Unknown command. Type "help" for help.[0m
+2012-04-24 22:18:04 [INFO] Stopping server
+2012-04-24 22:18:04 [INFO] [LogShit] Disabling LogShit v0.2
+2012-04-24 22:18:04 [INFO] [bPermissions] Disabling bPermissions v2.9.1
+2012-04-24 22:18:04 [INFO] WEPIF: bPermissions detected! Using bPermissions for permissions
+2012-04-24 22:18:04 [INFO] [bPermissions] Disabled
+2012-04-24 22:18:04 [INFO] [WorldEdit] Disabling WorldEdit v5.4-SNAPSHOT
+2012-04-24 22:18:04 [INFO] [NoCheatPlus] Disabling NoCheatPlus v3.5.8
+2012-04-24 22:18:04 [INFO] [NoCheatPlus] version [3.5.8] is disabled.
+2012-04-24 22:18:04 [INFO] [ProperTime] Disabling ProperTime v2.2
+2012-04-24 22:18:04 [INFO] [ProperTime v2.2] Thread 0 successfully joined.
+2012-04-24 22:18:04 [INFO] [ProperTime v2.2] Signing off.
+2012-04-24 22:18:04 [INFO] [ModMode] Disabling ModMode v1.0
+2012-04-24 22:18:04 [INFO] [CommandHelper] Disabling CommandHelper v3.3.1-SNAPSHOT
+2012-04-24 22:18:04 [INFO] [CommandBook] Disabling CommandBook v2.2-SNAPSHOT
+2012-04-24 22:18:04 [INFO] [WorldGuard] Disabling WorldGuard v5.6-SNAPSHOT
+2012-04-24 22:18:04 [INFO] Saving chunks
