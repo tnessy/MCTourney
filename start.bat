@@ -1,1 +1,0 @@
-java -jar -Xmn4G -Xmx8G -Xms8G -server -XX:+UseFastAccessorMethods -XX:+UnlockExperimentalVMOptions -XX:+UseG1GC  -XX:MaxGCPauseMillis=50 -XX:UseSSE=3 -Djline.terminal=jline.UnsupportedTerminal bukkit.jar noguis
