@@ -1,8 +1,0 @@
-default: default
-groups:
-  admin:
-    permissions: []
-    groups: []
-  default:
-    permissions: []
-    groups: []
